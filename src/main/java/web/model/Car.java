@@ -1,6 +1,4 @@
-package web.Model;
-
-import javax.annotation.processing.Generated;
+package web.model;
 
 public class Car {
     private Long id;
